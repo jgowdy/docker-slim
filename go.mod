@@ -45,7 +45,7 @@ require (
 	github.com/urfave/cli v1.22.4
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
-	golang.org/x/sys v0.0.0-20210921065528-437939a70204
+	golang.org/x/sys v0.1.0
 	google.golang.org/appengine v1.6.6 // indirect
 )
 
