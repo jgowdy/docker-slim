@@ -81,12 +81,12 @@ github.com/antchfx/htmlquery v1.0.0/go.mod h1:MS9yksVSQXls00iXkiMqXr0J+umL/AmxXK
 github.com/antchfx/htmlquery v1.2.3 h1:sP3NFDneHx2stfNXCKbhHFo8XgNjCACnU/4AO5gWz6M=
 github.com/antchfx/htmlquery v1.2.3/go.mod h1:B0ABL+F5irhhMWg54ymEZinzMSi0Kt3I2if0BLYa3V0=
 github.com/antchfx/xmlquery v1.0.0/go.mod h1:/+CnyD/DzHRnv2eRxrVbieRU/FIF6N0C+7oTtyUtCKk=
-github.com/antchfx/xmlquery v1.2.4 h1:T/SH1bYdzdjTMoz2RgsfVKbM5uWh3gjDYYepFqQmFv4=
-github.com/antchfx/xmlquery v1.2.4/go.mod h1:KQQuESaxSlqugE2ZBcM/qn+ebIpt+d+4Xx7YcSGAIrM=
+github.com/antchfx/xmlquery v1.3.1 h1:nIKWdtnhrXtj0/IRUAAw2I7TfpHUa3zMnHvNmPXFg+w=
+github.com/antchfx/xmlquery v1.3.1/go.mod h1:64w0Xesg2sTaawIdNqMB+7qaW/bSqkQm+ssPaCMWNnc=
 github.com/antchfx/xpath v1.0.0/go.mod h1:Yee4kTMuNiPYJ7nSNorELQMr1J33uOpXDMByNYhvtNk=
 github.com/antchfx/xpath v1.1.6/go.mod h1:Yee4kTMuNiPYJ7nSNorELQMr1J33uOpXDMByNYhvtNk=
-github.com/antchfx/xpath v1.1.8 h1:PcL6bIX42Px5usSx6xRYw/wjB3wYGkj0MJ9MBzEKVgk=
-github.com/antchfx/xpath v1.1.8/go.mod h1:Yee4kTMuNiPYJ7nSNorELQMr1J33uOpXDMByNYhvtNk=
+github.com/antchfx/xpath v1.1.10 h1:cJ0pOvEdN/WvYXxvRrzQH9x5QWKpzHacYO8qzCcDYAg=
+github.com/antchfx/xpath v1.1.10/go.mod h1:Yee4kTMuNiPYJ7nSNorELQMr1J33uOpXDMByNYhvtNk=
 github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6/go.mod h1:grANhF5doyWs3UAsr3K4I6qtAmlQcZDesFNEHPZAzj8=
 github.com/asaskevich/govalidator v0.0.0-20190424111038-f61b66f89f4a/go.mod h1:lB+ZfQJz7igIIfQNfa7Ml4HSf2uFQQRzpGGRXenZAgY=
 github.com/aws/aws-sdk-go v1.15.11/go.mod h1:mFuSZ37Z9YOHbQEwBWztmVzqXrEkub65tZoCYDt7FT0=
@@ -797,6 +797,7 @@ golang.org/x/net v0.0.0-20200301022130-244492dfa37a/go.mod h1:z5CRVTTTmAJ677TzLL
 golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e/go.mod h1:qpuaurCH72eLCgpAm/N6yyVIVM9cpaDIP3A8BGJEC5A=
 golang.org/x/net v0.0.0-20200421231249-e086a090c8fd/go.mod h1:qpuaurCH72eLCgpAm/N6yyVIVM9cpaDIP3A8BGJEC5A=
 golang.org/x/net v0.0.0-20200707034311-ab3426394381/go.mod h1:/O7V0waA8r7cgGh81Ro3o1hOxt32SMVPicZroKQ2sZA=
+golang.org/x/net v0.0.0-20200813134508-3edf25e44fcc/go.mod h1:/O7V0waA8r7cgGh81Ro3o1hOxt32SMVPicZroKQ2sZA=
 golang.org/x/net v0.0.0-20201006153459-a7d1128ccaa0/go.mod h1:sp8m0HH+o8qH0wwXwYZr8TS3Oi6o0r6Gce1SSxlDquU=
 golang.org/x/net v0.0.0-20201021035429-f5854403a974/go.mod h1:sp8m0HH+o8qH0wwXwYZr8TS3Oi6o0r6Gce1SSxlDquU=
 golang.org/x/net v0.0.0-20201110031124-69a78807bb2b/go.mod h1:sp8m0HH+o8qH0wwXwYZr8TS3Oi6o0r6Gce1SSxlDquU=
