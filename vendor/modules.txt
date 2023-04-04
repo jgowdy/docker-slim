@@ -72,7 +72,7 @@ github.com/docker-slim/uilive
 # github.com/docker-slim/uiprogress v0.0.0-20190505193231-9d4396e6d40b
 github.com/docker-slim/uiprogress
 github.com/docker-slim/uiprogress/util/strutil
-# github.com/docker/docker v20.10.8+incompatible
+# github.com/docker/docker v20.10.24+incompatible
 github.com/docker/docker/api/types/blkiodev
 github.com/docker/docker/api/types/container
 github.com/docker/docker/api/types/filters

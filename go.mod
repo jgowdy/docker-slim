@@ -18,7 +18,7 @@ require (
 	github.com/docker-slim/go-update v0.0.0-20190422071557-ed40247aff59
 	github.com/docker-slim/uilive v0.0.2 // indirect
 	github.com/docker-slim/uiprogress v0.0.0-20190505193231-9d4396e6d40b
-	github.com/docker/docker v20.10.8+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/dsnet/compress v0.0.1 // indirect
 	github.com/dustin/go-humanize v1.0.0
